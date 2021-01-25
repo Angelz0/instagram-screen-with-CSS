@@ -8,7 +8,6 @@ Tecnologias utilizadas:
 * CSS3;
 * Layout Responsivo;
 
-![Imagem do projeto](C:\Users\angel\Documents\project-instagram\img\Print.JPG)
 
 
 
