@@ -7,11 +7,3 @@ Tecnologias utilizadas:
 * HTML5;
 * CSS3;
 * Layout Responsivo;
-
-
-
-
-
-
-
-
